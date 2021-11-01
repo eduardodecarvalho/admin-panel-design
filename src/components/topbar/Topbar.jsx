@@ -24,7 +24,7 @@ export default function Topbar() {
                     <div className="topbarIconContair">
                         <Settings />
                     </div>
-                        <img src="https://www.shareicon.net/data/128x128/2016/06/19/603742_linux_512x512.png" alt="../../images/avatar.png" className="topAvatar" />
+                        <img src="https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" className="topAvatar" />
                 </div>
             </div>
         </div>
